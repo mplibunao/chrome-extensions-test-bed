@@ -41,7 +41,7 @@ Some sample events include:
 }
 ```
 
-### Chrome APIs
+## Chrome APIs
 
 - Storage: https://developer.chrome.com/apps/storage
 - DeclarativeContent: https://developer.chrome.com/extensions/declarativeContent

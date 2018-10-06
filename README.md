@@ -1,19 +1,19 @@
-### Repo containing projects, tutorials and guides I used when learning how to make chrome extensions
+# Repo containing projects, tutorials and guides I used when learning how to make chrome extensions
 
-### Links and Resources
+## Links and Resources
 
 - https://developer.chrome.com/extensions
 
 
-### Notes
+## Notes
 
 - Extensions are made of different, but cohesive, components which can include `background scripts`, `content scripts`, an `options page`, `UI elements`
 
-##### Manifest
+### Manifest
 
 - Chrome extensions start with a `manifest.json` which you can load in `chrome://extensions` using the `LOAD UNPACKED` button
 
-##### Background Script
+### Background Script
 
 https://developer.chrome.com/extensions/background_pages
 
@@ -41,7 +41,7 @@ Some sample events include:
 }
 ```
 
-#### Chrome APIs
+### Chrome APIs
 
 - Storage: https://developer.chrome.com/apps/storage
 - DeclarativeContent: https://developer.chrome.com/extensions/declarativeContent

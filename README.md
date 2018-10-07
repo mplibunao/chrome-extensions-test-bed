@@ -41,6 +41,15 @@ Some sample events include:
 }
 ```
 
+### Content Scripts
+
+https://developer.chrome.com/extensions/content_scripts#pi
+
+
+- Files that run in the context of web pages
+- Using the standard DOM, they are able to read details of the web pages the browser visits, make changes to them and pass information to their parent extension
+- Content scripts can access Chrome APIs used by the their parent extension by exchanging `messages` and access information by making `cross-site XMLHttpRequests` to parent sites
+
 ## Chrome APIs
 
 - Storage: https://developer.chrome.com/apps/storage
